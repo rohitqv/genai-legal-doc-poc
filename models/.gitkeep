@@ -1,0 +1,3 @@
+# This directory stores FAISS indices and other models
+# FAISS indices go in models/faiss_index/
+

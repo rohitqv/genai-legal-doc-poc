@@ -1,0 +1,5 @@
+# This directory stores raw and processed data
+# Raw data goes in data/raw/
+# Processed data goes in data/processed/
+# Embeddings go in data/embeddings/
+

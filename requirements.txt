@@ -1,0 +1,53 @@
+# Core Databricks & Spark
+databricks-sdk>=0.20.0
+pyspark>=3.5.0
+delta-spark>=3.0.0
+
+# Document Processing & OCR
+PyMuPDF>=1.23.0
+pytesseract>=0.3.10
+Pillow>=10.0.0
+python-docx>=1.0.0
+
+# Text Processing & NLP
+langchain>=0.1.0
+langchain-community>=0.0.20
+langchain-core>=0.1.0
+sentence-transformers>=2.2.0
+transformers>=4.35.0
+torch>=2.1.0
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Translation & Language Detection
+langdetect>=1.0.9
+opustools>=1.0.0
+
+# Vector Search
+faiss-cpu>=1.7.4
+
+# LLM Models (Open Source)
+huggingface-hub>=0.19.0
+accelerate>=0.25.0
+bitsandbytes>=0.41.0
+
+# SEC Data Ingestion
+sec-edgar-downloader>=5.0.0
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+
+# Workflow & Utilities
+python-dotenv>=1.0.0
+pyyaml>=6.0.1
+
+# Visualization
+streamlit>=1.28.0
+plotly>=5.17.0
+
+# Logging & Monitoring
+loguru>=0.7.2
+
+# Testing (optional)
+pytest>=7.4.0
+pytest-cov>=4.1.0
+
